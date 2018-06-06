@@ -81,3 +81,6 @@ A podcast by Basecamp about a better way to work and run your business. We bring
 
 - [The Indie Hackers Podcast](https://www.indiehackers.com)  
 I'm Courtland Allen, and on IndieHackers.com I've interviewed hundreds of developers about how they've built, marketed, and grown their side projects into profitable online businesses. The Indie Hackers Podcast dives even deeper into the strategies and tactics behind making money online. I'll be speaking with the founders of businesses both big and small, from people working a few hours a week on side projects that generate $500/month, to CEOs who've grown their startups to millions of dollars in annual revenue. Whether you're currently running your own business or you're an aspiring entrepreneur, you'll learn by example the fundamentals behind coming up with valuable ideas, testing the market to see if they'll work, finding your first customers, marketing and growing your business, and becoming a financially independent indie hacker.
+
+- [Founder Chats](https://founderchats.com/)
+Josh Pigford, founder of Baremetrics, talks with a different entrepreneur each week. Get insights on how these companies work, how they got started, what motivates their founders every day.
